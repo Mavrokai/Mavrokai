@@ -9,8 +9,8 @@
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/person-raising-hand_1f64b.png" height="30px"> À propos de moi
 
 <div style="display: flex; align-items: center;">
-<img align="left" width="200px" src="https://i.pinimg.com/originals/a0/15/ce/a015ce95ce3a7ea270f2138dfce53389.jpg">
-<img align="right" width="400px" src="https://v1.pinimg.com/videos/mc/720p/c7/67/e6/c767e6c0ef27fbe2eb675a5c6f6d4df4.mp4">
+<img align="left" width="200px" src="https://github.com/Mavrokai/Mavrokai/blob/main/assets/Igris.jpg?raw=trueg">
+<img align="right" width="400px" src="https://github.com/Mavrokai/Mavrokai/blob/main/assets/sung-jin-woo-karma.gif?raw=true">
 
 > *"Je me lève seul."* 🔥
 
