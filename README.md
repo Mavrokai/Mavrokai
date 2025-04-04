@@ -10,7 +10,7 @@
 
 <div style="display: flex; align-items: center;">
 <img align="left" width="200px" src="https://github.com/Mavrokai/Mavrokai/blob/main/assets/Igris.jpg?raw=trueg">
-<img align="right" width="400px" src="https://github.com/Mavrokai/Mavrokai/blob/main/assets/sung-jin-woo-karma.gif?raw=true">
+<img align="right" width="200px" src="https://github.com/Mavrokai/Mavrokai/blob/main/assets/sung-jin-woo-karma.gif?raw=true">
 
 > *"Je me lève seul."* 🔥
 
