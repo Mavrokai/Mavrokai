@@ -8,19 +8,21 @@
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/person-raising-hand_1f64b.png" height="30px"> À propos de moi
 
-<div style="display: flex; align-items: center;">
+<div>
 <img align="left" width="165px" src="https://github.com/Mavrokai/Mavrokai/blob/main/assets/Igris.jpg?raw=trueg">
 <img align="right" width="165px" src="https://github.com/Mavrokai/Mavrokai/blob/main/assets/sung-jin-woo-karma.gif?raw=true">
 
+<div align="center">
+  
 > *"Je me lève seul."* 🔥
+  
+</div>
 
 Étudiant à **Epitech Web@cadémie**, je forge mon chemin dans le développement web avec la détermination d'un chasseur. Mon objectif est de devenir un développeur Full Stack d'élite, tout en maintenant une vie simple et tranquille.
 
 Comme **Beru**, je suis loyal envers mes projets et je donne tout pour les mener à terme. Je suis constamment en quête de nouvelles compétences à ajouter à mon arsenal.
 
 </div>
-
----
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/crossed-swords_2694-fe0f.png" height="30px"> Mes Compétences
 
