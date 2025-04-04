@@ -10,7 +10,7 @@
 
 <div style="display: flex; align-items: center;">
 <img align="left" width="200px" src="https://i.pinimg.com/originals/a0/15/ce/a015ce95ce3a7ea270f2138dfce53389.jpg">
-<img align="right" width="400px" src="https://64.media.tumblr.com/9513609cf34f6ee1f9115ffefc692329/99bd4f8a3d71bb3a-66/s640x960/dd5f0fcdde1574c993307daf34a69f90f0a1e239.gifv">
+<img align="right" width="400px" src="https://v1.pinimg.com/videos/mc/720p/c7/67/e6/c767e6c0ef27fbe2eb675a5c6f6d4df4.mp4">
 
 > *"Je me lève seul."* 🔥
 
