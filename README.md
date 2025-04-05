@@ -25,9 +25,7 @@ Comme **Beru**, je suis loyal envers mes projets et je donne tout pour les mener
 </div>
 
 
-<div style="margin-top: 40px;"></div>
-
-<div align="center">
+<div align="center" style="margin-top: 40px>
   
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/crossed-swords_2694-fe0f.png" height="30px"> Mes Compétences
   
