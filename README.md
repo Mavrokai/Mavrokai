@@ -20,7 +20,7 @@
 
 Étudiant à **Epitech Web@cadémie**, je forge mon chemin dans le développement web avec la détermination d'un chasseur. Mon objectif est de devenir un développeur Full Stack d'élite, tout en maintenant une vie simple et tranquille.
 
-Comme **Beru**, je suis loyal envers mes projets et je donne tout pour les mener à terme. Je suis constamment en quête de nouvelles compétences à ajouter à mon arsenal.
+Comme **Igris**, je suis loyal envers mes projets et je donne tout pour les mener à terme. Je suis constamment en quête de nouvelles compétences à ajouter à mon arsenal.
 
 </div>
 
