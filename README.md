@@ -14,7 +14,7 @@
 
 <div align="center">
   
-> *"Je me lève seul."* 🔥
+> 🔥 *"Je me lève seul."* 🔥
   
 </div>
 
@@ -25,7 +25,7 @@ Comme **Beru**, je suis loyal envers mes projets et je donne tout pour les mener
 </div>
 
 
-<div align="center" style="margin-top: 200px>
+<div align="center" style="margin-top: 200px; padding-top: 50px>
   
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/crossed-swords_2694-fe0f.png" height="30px"> Mes Compétences
   
